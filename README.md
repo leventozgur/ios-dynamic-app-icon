@@ -1,5 +1,9 @@
 ﻿# iOS Dynamic App Icon
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leventozgur/ios_dynamic_app_icon/main/app_video.gif" alt="App Video"/>
+</p>
+
 This iOS application has been designed to showcase how the application icon can be dynamically changed. The application employs a method to change the image used to create the application icon.
 
 ## How it works
